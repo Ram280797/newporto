@@ -1,0 +1,19 @@
+.content{
+    background: #e7fff5;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+     height: 100vh;
+      
+}
+.content>h1{
+    padding-top: 25px;
+    padding-bottom: 45px;
+    text-align: center;
+}
+.content>p{
+    padding-bottom: 20px;
+   font-family:"Alata",sans-serif;
+    text-align: center;
+    font-size: 25px;
+}
